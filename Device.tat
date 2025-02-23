@@ -4,7 +4,7 @@
     <filter enabled="n" excluding="n" description="Identify Errors" foreColor="000000" backColor="f08080" type="matches_text" case_sensitive="n" regex="n" text=" E " />
     <filter enabled="n" excluding="n" description="" backColor="f08080" type="matches_text" case_sensitive="n" regex="n" text="Error" />
     <filter enabled="n" excluding="n" description="" backColor="f08080" type="matches_text" case_sensitive="n" regex="n" text="Err" />
-    <filter enabled="n" excluding="n" description="Authrization Request - Commonly used for Sign in issues" backColor="87cefa" type="matches_text" case_sensitive="n" regex="n" text="Auth" />
+    <filter enabled="n" excluding="n" description="Authorization Request - Commonly used for Sign in issues" backColor="87cefa" type="matches_text" case_sensitive="n" regex="n" text="Auth" />
     <filter enabled="n" excluding="n" description="" foreColor="ffffff" backColor="4169e1" type="matches_text" case_sensitive="n" regex="n" text="Enumerated Monitor" />
     <filter enabled="n" excluding="n" description="Device Signals Reporting to TAC (Healthy,Unhealthy)" foreColor="0000ff" backColor="dcdcdc" type="matches_text" case_sensitive="n" regex="n" text="Heartbeat" />
     <filter enabled="n" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="Warning" />
